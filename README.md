@@ -18,6 +18,6 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 
 #### Contato 📬
 - **LinkedIn:** www.linkedin.com/in/joaomourasantos
-- **E-mail:** joaopedros649@gmail.com
+- **E-mail:** joaopedros639@gmail.com
 
 Empenhado em contribuir com minha paixão pela programação em um ambiente desafiador e inovador. Aberto a oportunidades de aprendizado e crescimento profissional.
