@@ -6,8 +6,8 @@
 Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento. Conhecimentos básicos em C, C++, HTML, CSS e JavaScript.
 
 #### Habilidades Técnicas 💻
-- Linguagens: C, java, swift
-- Web: HTML, CSS, JavaScript
+- Linguagens: C, java, swift, Linux
+- Web: HTML, CSS, JavaScript, Spring Boot
 - Experiência: Desenvolvimento web, SQL
 
 #### Projetos 🛠️
