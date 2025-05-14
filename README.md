@@ -6,9 +6,9 @@
 Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento. Conhecimentos básicos em C, C++, HTML, CSS e JavaScript.
 
 #### Habilidades Técnicas 💻
-- Linguagens: C, C++
+- Linguagens: C, java, swift
 - Web: HTML, CSS, JavaScript
-- Experiência: Desenvolvimento web
+- Experiência: Desenvolvimento web, SQL
 
 #### Projetos 🛠️
 1. **Ecomerce:**  Portal de eCommerce integrado com a Fake Store API.
