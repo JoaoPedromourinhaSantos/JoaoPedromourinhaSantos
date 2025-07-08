@@ -15,6 +15,7 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 2. Projeto TI1: https://investlux.netlify.app
 3. Jogo Mário em desenvolvimento.
 4. Profile page https://joao-pedro-profile.netlify.app
+5. Apptite
    
    
 #### Formação Acadêmica 📚
