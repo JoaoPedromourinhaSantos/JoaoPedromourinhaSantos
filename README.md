@@ -3,7 +3,7 @@
 ### João Pedro Moura 👨‍💻
 
 #### Perfil Profissional 🚀
-Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento. Conhecimentos básicos em C, C++, HTML, CSS e JavaScript.
+Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento.
 
 #### Habilidades Técnicas 💻
 - Linguagens: C, java, swift, Linux
