@@ -49,10 +49,10 @@ Busco atuar em projetos que exijam **criatividade, alta performance técnica e a
 
 
 #### Projetos 🛠️
-1. **Ecomerce:** Portal de eCommerce integrado com a Fake Store API.
-2. **Projeto TI1:** [InvestLux](https://investlux.netlify.app)
-3. **Profile Page:** [Página de Perfil](https://joao-pedro-profile.netlify.app)
-4. Apptite
+1. **Calculadora de Emissão de CO²** [Calculadora](https://joaopedromourinhasantos.github.io/GitHubCopilot-CodigonaPratica/)
+2. **Ecomerce:** Portal de eCommerce integrado com a Fake Store API.
+3. **Projeto TI1:** [InvestLux](https://investlux.netlify.app)
+4. **Profile Page:** [Página de Perfil](https://joao-pedro-profile.netlify.app)
 
 ---
 
